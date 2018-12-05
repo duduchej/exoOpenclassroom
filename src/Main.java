@@ -17,11 +17,6 @@ public class Main {
 
 
 
-
-
-
-
-/*
         Main main = new Main();
         System.out.println(main.test);
         System.out.println(main.test1);
@@ -41,7 +36,7 @@ public class Main {
         float y = 2;
         float z = 2.5f;   //f is mandatory
         float z1 = 2; //f isn't mandatory
-        int d= -5;
+        int ad= -5;
         //important rules!
         //Smaller data types, namely byte, short, and char, are first promoted to int any time
         //they’re used with a Java binary arithmetic operator, even if neither of the operands is
@@ -113,7 +108,7 @@ public class Main {
 
 
 
-*/
+
 
 
 
