@@ -10,6 +10,17 @@ public class Main {
 
     public static void main(String[] args) {
 
+        Dialoguer d = (s)-> System.out.println("hello" + s);
+        d.parler(Thread.currentThread().getName());
+
+        Thread.currentThread().getName();
+
+
+
+
+
+
+
 /*
         Main main = new Main();
         System.out.println(main.test);
